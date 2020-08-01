@@ -50,7 +50,7 @@ count = 0
 
 for w in lyrics.split():
     count += 1
-    w.strip('\'\"., ')
+    w = w.strip('\'\"., ')
     original_words.append(w)
     if(count % 3 == 0):
         if(len(w) < 4):
