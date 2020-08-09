@@ -5,7 +5,7 @@ literally just bs4:
 `$ pip install beautifulsoup4` 
 
 ### Run
-`$ tsify.py song_name`
+`$ python tsify.py song_name`
 
 give it a buncha time (2-3 mins) since songs have a lot of words and i wasnt gonna go digging for a thesaurus api at 12am  
 Found a cou0ple, but they were all either useless or exorbitatntly priced  
